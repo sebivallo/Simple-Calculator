@@ -31,7 +31,7 @@ Sebivallo is building a cool typing speed game with curses
     git clone 
 github.com
 
-    cd sebivallo/Simple-Calculator/
+    cd Simple-Calculator
     ```
 
 2.  **Create the `text.txt` file** in the project's root directory with some sentences to type (see Prerequisites above).
