@@ -59,7 +59,7 @@ github.com
 This project is open for contributions! If you have suggestions for improvement, such as adding features, fixing bugs, or expanding the text loading functionality, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE) (or choose your preferred license and link it).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
